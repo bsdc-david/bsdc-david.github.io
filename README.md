@@ -1,1 +1,0 @@
-# bsdc-david.github.io
