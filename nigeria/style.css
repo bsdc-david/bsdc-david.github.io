@@ -1,0 +1,20 @@
+html {
+    border: 2px soldi blue;
+    height: 100%;
+}
+
+body{
+    background-image: url("images/nigerian\ flag\ 3.jpg");
+    background-size: cover;
+    background-position: center;
+    /* border: 2px solid red; */
+    margin: 0;
+    height: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    text-shadow: 5px 5px 10px darkgreen;
+}
